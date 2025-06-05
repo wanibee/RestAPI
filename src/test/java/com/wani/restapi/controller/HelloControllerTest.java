@@ -18,7 +18,7 @@ public class HelloControllerTest {
 
 
         // then
-        assertEquals(1, a+b);
+        assertEquals(3, a+b);
     }
 
 }
